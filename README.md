@@ -2,17 +2,17 @@
 
 ## Gust Vercruysse
 Student at Campus VTI Waregem 
-# About me
+# About me👤
 * **Name:** Gust Vercruysse <br />
 * **Date of birth:** 19 December 2008 <br />
 * **Studies:** Aplication and Data Control at Campus VTI Waregem <br />
 Located in West-Flanders Belgium <br />
 * **Location:** Anzegem, West-Flanders in Belgium <br />
-# Work Experince
+# Work Experince💼
 * School ICT help <br />
 * playground activities <br />
 * Kitchen work in restaurant <br />
-# skils
+# skils🛠️
 <ul>
   <li>
     C++
@@ -39,7 +39,7 @@ Located in West-Flanders Belgium <br />
   </li>
 </ul>
 
-# Projects
+# Projects📂
 * Year project(website version of jungle speed using blazor) <br />
 * unfinished roblox game(lua)
 
