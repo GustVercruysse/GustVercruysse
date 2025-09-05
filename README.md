@@ -42,6 +42,10 @@ Located in West-Flanders Belgium <br />
 # Projects📂
 * Year project(website version of jungle speed using blazor) <br />
 * unfinished roblox game(lua)
+## Contact gevevens
+* School E-mail: Gust.Vercruysse@sgsintpaulus.eu
+* Private E-mail: Vercruysse.gust@gmail.com
+  
 
   
 ## ![sml-cameel-habib-habab](https://github.com/user-attachments/assets/616df5f9-aa49-4904-8e87-61bf8c9e282d)
